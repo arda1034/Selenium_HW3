@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="selenium-firefox-xpi-driver-4.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-firefox-xpi-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-api-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v85-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-ie-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-chromium-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-chrome-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v95-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-edge-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v94-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-firefox-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v93-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-http-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-java-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-support-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-safari-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-remote-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-opera-driver-4.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-json-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-ie-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-api-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-edge-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v85-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v94-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-chrome-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-http-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-firefox-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v93-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-chromium-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-devtools-v95-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-firefox-xpi-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-support-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-safari-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-remote-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-opera-driver-4.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Coding_and_Projects/Selenium/selenium-json-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
